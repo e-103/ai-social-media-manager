@@ -1,0 +1,5 @@
+{
+  "env": {
+    "BLOTATO_API_KEY": "paste-your-blotato-key-here"
+  }
+}

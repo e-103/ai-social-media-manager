@@ -1,0 +1,19 @@
+node_modules/
+.venv/
+dist/
+.cache/
+.DS_Store
+__pycache__/
+*.pyc
+# secrets: your Blotato key lives here
+.claude/settings.local.json
+.env*
+# your own media and run data
+clips/
+plans/
+clip-plan.md
+clips-log.md
+posts-log.md
+campaigns.md
+creators.md
+content-plan.md
